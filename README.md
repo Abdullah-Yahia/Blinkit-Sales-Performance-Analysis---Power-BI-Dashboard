@@ -46,8 +46,16 @@ The analysis was centered around the following key objectives:
    - **Visualization:** Matrix Card.
 
 # Snapshot of the Blinkit Insights
-![](Blinkit Dashboard.png)
+![](https://github.com/Abdullah-Yahia/BlinkitSales-Performance-Analysis-Power-BI-Dashboard/blob/main/Blinkit%20Dashboard.png)
 
-
+## Visualizations Utilized
+- **Donut Chart:** Used to assess sales distribution by fat content and outlet size.
+- **Bar Chart:** Applied to compare sales across item types.
+- **Stacked Column Chart:** Visualized outlet-wise sales by fat content.
+- **Line Chart:** Illustrated sales trends relative to outlet establishment year.
+- **Pie Chart:** Explored the relationship between outlet size and sales.
+- **Funnel Map:** Mapped geographic sales distribution.
+- **Matrix Card:** Provided a detailed breakdown of all key metrics by outlet type.
+## Insights and Conclusions
+This project provided valuable insights into Blinkit’s sales dynamics and customer behavior, enabling data-driven decisions to optimize business performance. The effective use of DAX functions and Power BI’s advanced visualization features resulted in a dashboard that is both informative and visually engaging.
   
-
