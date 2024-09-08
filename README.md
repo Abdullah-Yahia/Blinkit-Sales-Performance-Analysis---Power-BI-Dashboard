@@ -46,7 +46,7 @@ The analysis was centered around the following key objectives:
    - **Visualization:** Matrix Card.
 
 # Snapshot of the Blinkit Insights
-![Uploading Blinkit Dashboard.png…]()
+![](Blinkit Dashboard.png)
 
 
   
