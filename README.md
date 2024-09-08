@@ -46,7 +46,7 @@ The analysis was centered around the following key objectives:
    - **Visualization:** Matrix Card.
 
 # Snapshot of the Blinkit Insights
-
+https://raw.githubusercontent.com/Abdullah-Yahia/BlinkitSales-Performance-Analysis-Power-BI-Dashboard/main/Blinkit%20Dashboard.png
 
   
 
